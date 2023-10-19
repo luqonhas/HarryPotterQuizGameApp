@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyQuizApplication</string>
+    <color name="red">#580202</color>
+    <color name="yellow">#ffcc02</color>
+</resources>
